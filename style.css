@@ -1,0 +1,11 @@
+body{
+  background:hotpink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  min-height: 100vh;
+}
+h1{
+  font-size: 100px;
+}
